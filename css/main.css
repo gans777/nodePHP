@@ -1,0 +1,33 @@
+.button-main{
+    width: 150px;
+    height: 40px;
+    margin: 5px;
+    color: aliceblue;
+    background: orange;
+    border: 0;
+}
+
+.input-sender{
+    width: 200px;
+    height: 40px;
+    margin: 5px;
+    text-align: center;
+}
+
+.sender-block, .menu-block, .reception-block, .status-block{
+    margin-top: 50px;
+    text-align: center;
+    width: 100%;
+    background: #9ba3aa;
+}
+
+.line_id_mess{
+    display: flex;
+    justify-content: center;
+    border:1px solid gray;
+    margin-bottom: 1px;
+}
+
+/*  для страницы status */
+
+
